@@ -6,6 +6,16 @@ Always achieving improvements in my professional and personal curriculum always 
 
 ## Skills
 
+## DevOps
+
+<p align="left">
+<a href= "https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="106" height="36" alt="Jenkins" /></a>
+<a href= "https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="106" height="36" alt="GitHub Actions" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98766758/217071238-e9e344b2-4822-40d5-8e86-74f05ed40de8.png" width="36" height="36" alt="Docker" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="36" height="36" alt="Git" /></a>
+  
+</p>
+
 ### Back-End
 
 <p align="left">
@@ -30,13 +40,6 @@ Always achieving improvements in my professional and personal curriculum always 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="36" height="36" alt="Jest" /></a>  
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mocha_icon_130387.png" width="36" height="36" alt="Mocha" /></a>
 <a href="https://www.chaijs.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/chaijs_logo_icon_168435.png" width="36" height="36" alt="Chai" /></a>
-</p>
-
-### Others
-<p align="left">
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98766758/217071238-e9e344b2-4822-40d5-8e86-74f05ed40de8.png" width="36" height="36" alt="Docker" /></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="36" height="36" alt="Git" /></a>
-  
 </p>
 
 ## Socials
