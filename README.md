@@ -1,8 +1,6 @@
 ### Hi , Thiago Pereira
 
-Graduated as a mechatronics technician, I have extensive experience (15 years) in electronics, both in the industrial and commercial consumer areas. professional. Leaving to be a Software and DevOps Engineer
-Completing everything, I am very passionate about technology from the creation of hardware to the moment of uploading an application in the cloud.
-Always achieving improvements in my professional and personal curriculum always in search of new challenges.
+I have been in career transition for over a year, applying knowledge and time to Back end and DevOps studies in various personal and also professional projects. Adopting the most used technologies in the software development market, from code creation, automated testing and cloud application deployment. I am very passionate about technology from the creation of the hardware to the moment of uploading an application to the cloud. I am always looking for knowledge and improvements in my professional and personal curriculum.
 
 ## Skills
 
