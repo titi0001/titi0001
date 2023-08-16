@@ -1,6 +1,8 @@
 ### Hi , Thiago Pereira
 
-I have been in career transition for over a year, applying knowledge and time to Back end and DevOps studies in various personal and also professional projects. Adopting the most used technologies in the software development market, from code creation, automated testing and cloud application deployment. I am very passionate about technology from the creation of the hardware to the moment of uploading an application to the cloud. I am always looking for knowledge and improvements in my professional and personal curriculum.
+I am a dedicated back-end developer actively seeking new opportunities to apply my expertise. With a strong focus on Back-end and DevOps practices, I have invested significant time and effort into honing my skills through a diverse range of personal and professional projects. My approach involves embracing the cutting-edge technologies that dominate the software development landscape, encompassing everything from initial code inception to the seamless deployment of cloud-based applications.
+
+My passion for technology extends from the intricacies of hardware creation to the exhilarating process of launching an application into the cloud. Eagerly committed to continuous growth, I am consistently driven to expand my knowledge and enhance both my professional and personal portfolio.
 
 ## Skills
 
