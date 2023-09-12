@@ -10,18 +10,18 @@ My passion for technology extends from the intricacies of hardware creation to t
 
 <p align="left">
 <a href= "https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="106" height="36" alt="Jenkins" /></a>
-<a href= "https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="106" height="36" alt="GitHub Actions" /></a>
+<a href= "https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="156" height="36" alt="GitHub Actions" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" width="156" height="36" alt="Kubernetes" /> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98766758/217071238-e9e344b2-4822-40d5-8e86-74f05ed40de8.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="36" height="36" alt="Git" /></a>
-  
 </p>
 
 ### Back-End
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="106" height="36" alt="Python" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" width="36" height="36" alt="Prisma ORM" /></a>
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" width="36" height="36" alt="Sequelize ORM" /></a>
