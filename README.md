@@ -4,6 +4,8 @@ I am a dedicated back-end developer actively seeking new opportunities to apply 
 
 My passion for technology extends from the intricacies of hardware creation to the exhilarating process of launching an application into the cloud. Eagerly committed to continuous growth, I am consistently driven to expand my knowledge and enhance both my professional and personal portfolio.
 
+## Time code [![wakatime](https://wakatime.com/badge/user/018c1156-22be-4096-972e-08ec085f733f.svg)](https://wakatime.com/@018c1156-22be-4096-972e-08ec085f733f)
+
 ## Skills
 
 ### DevOps
