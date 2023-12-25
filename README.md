@@ -6,6 +6,8 @@ My passion for technology extends from the intricacies of hardware creation to t
 
 ## Time code [![wakatime](https://wakatime.com/badge/user/018c1156-22be-4096-972e-08ec085f733f.svg)](https://wakatime.com/@018c1156-22be-4096-972e-08ec085f733f)
 
+![](https://komarev.com/ghpvc/?username=titi0001&style=for-the-badge)
+
 ## Skills
 
 ### DevOps
