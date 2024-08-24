@@ -64,4 +64,4 @@ My passion for technology extends from the intricacies of hardware creation to t
  <a href="https://www.linkedin.com/in/thiago-pereira-14996b117/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 ## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titi0001&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titi0001&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titi0001&show_icons=true&theme=radical)
