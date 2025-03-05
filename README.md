@@ -1,12 +1,6 @@
 ### Hi , Thiago Pereira
 
-Back-end developer focused on DevOps practices. In the last few months, I have improved
-my skills in Continuous Integration (CI) and Continuous Deployment (CD), explored
-serverless with Node.js applied to a project, learned infrastructure as code using Terraform
-and Ansible. Additionally, I gained knowledge in container orchestration with Kubernetes.
-These learnings were applied to projects on GitHub, demonstrating my practical ability
-
-My passion for technology extends from the intricacies of hardware creation to the exhilarating process of launching an application into the cloud. Eagerly committed to continuous growth, I am consistently driven to expand my knowledge and enhance both my professional and personal portfolio.
+Backend developer with a focus on DevOps, passionate about building robust APIs with NestJS and TypeScript, orchestrating containers with Kubernetes, and automating workflows with CI/CD via GitHub Actions and Jenkins. I master infrastructure as code with Terraform, deliver resilience with Argo CD, and monitor everything with Prometheus and Grafana. My experience spans AWS, Kafka, ECS, and even on-premises environment harmonization. I love exploring serverless with Node.js, applying GitOps, and evolving distributed systems. Outside of coding, I collaborate on open-source projects, study hexagonal architecture in Go, and practice Agile and BDD to deliver high-value software. Always looking for growth, I transform my passion for technology into practical solutions on GitHub and beyond.
 
 ## Time code [![wakatime](https://wakatime.com/badge/user/018c1156-22be-4096-972e-08ec085f733f.svg)](https://wakatime.com/@018c1156-22be-4096-972e-08ec085f733f)
 
