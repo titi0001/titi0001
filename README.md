@@ -2,9 +2,8 @@
 
 Backend developer with a focus on DevOps, passionate about building robust APIs with NestJS and TypeScript, orchestrating containers with Kubernetes, and automating workflows with CI/CD via GitHub Actions and Jenkins. I master infrastructure as code with Terraform, deliver resilience with Argo CD, and monitor everything with Prometheus and Grafana. My experience spans AWS, Kafka, ECS, and even on-premises environment harmonization. I love exploring serverless with Node.js, applying GitOps, and evolving distributed systems. Outside of coding, I collaborate on open-source projects, study hexagonal architecture in Go, and practice Agile and BDD to deliver high-value software. Always looking for growth, I transform my passion for technology into practical solutions on GitHub and beyond.
 
-## Time code [![wakatime](https://wakatime.com/badge/user/018c1156-22be-4096-972e-08ec085f733f.svg)](https://wakatime.com/@018c1156-22be-4096-972e-08ec085f733f)
-
-![](https://komarev.com/ghpvc/?username=titi0001&style=for-the-badge)
+## 📚 Education
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/thiago-pereira-dev)
 
 ## Skills
 
@@ -14,17 +13,24 @@ Backend developer with a focus on DevOps, passionate about building robust APIs 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Argo%20CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
 
 ### Backend
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
@@ -57,3 +63,6 @@ Backend developer with a focus on DevOps, passionate about building robust APIs 
 
 ## GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titi0001&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=titi0001&style=for-the-badge)
+## Time code [![wakatime](https://wakatime.com/badge/user/018c1156-22be-4096-972e-08ec085f733f.svg)](https://wakatime.com/@018c1156-22be-4096-972e-08ec085f733f)
