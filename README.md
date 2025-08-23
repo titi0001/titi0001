@@ -1,7 +1,17 @@
 ### Hi , Thiago Pereira
 
-Backend developer with a DevOps focus, passionate about NestJS with TypeScript to build APIs, AWS to bring the cloud to life, or Kubernetes to orchestrate chaos. I love the DevOps universe: CI/CD pipelines that flow like a finely tuned machine, where I design and implement workflows in GitHub Actions to automate tests, builds, and deploys with precision, or in Jenkins for more tailored pipelines, all integrated into a GitOps approach that keeps version control at the heart of the infrastructure. Argo CD steps in as the conductor, syncing my Kubernetes clusters with manifests straight from Git, ensuring continuous delivery with flawless rollouts and resilience in every update. The infra rises on its own with Terraform, while Prometheus and Grafana keep watch over every metric, letting nothing slip by. With Kubernetes, I manage containers at scale, guaranteeing efficient deploys and distributed systems that withstand any pressure.
-I’ve integrated systems with Kafka, scaled applications with ECS, and even brought harmony to on-premises environments. Outside of code, you’ll find me collaborating on open-source projects, exchanging ideas in communities like Cloud Native and FinOps, and recently diving into studies of system architecture—like hexagonal architecture in Go—while investing time in practicing methodologies like Agile and BDD to deliver software with greater quality and value.
+🚀 DevOps Engineer | Backend Developer
+I’m a DevOps Engineer and Backend Developer with vast expertise in AWS, GCP, and Kubernetes, passionate about designing, automating, and scaling modern, cloud-native applications. I specialize in building APIs with NestJS + TypeScript, always prioritizing security, applying OWASP best practices, and ensuring compliance for robust, production-ready systems.
+DevOps & Cloud: I design and operate CI/CD pipelines with GitHub Actions and Jenkins, embrace GitOps with Argo CD, implement Infrastructure as Code using Terraform and CloudFormation, and ensure observability through Prometheus and Grafana.
+AI for DevOps: I integrate LLMs and RAG architectures into pipelines, enabling intelligent automation for deployment orchestration, anomaly detection, security checks, and incident response—pushing CI/CD into the AI-driven era.
+
+Cloud-Native Expertise:
+AWS: EKS, ECS, Lambda, API Gateway, S3, CloudWatch, CloudFormation
+GCP: GKE, Cloud Run, Pub/Sub, BigQuery, Cloud Build
+Hybrid/On-Prem: Kafka integrations, distributed microservices, and containerized workloads at scale.
+
+Scalable Architectures: Experienced in designing microservices, event-driven systems, service mesh with Istio, serverless architectures, and hexagonal/clean architecture in Go and TypeScript—ensuring systems remain reliable, scalable, and adaptable to high-demand environments.
+I actively contribute to open-source projects, engage with Cloud Native and FinOps communities, and continuously explore ways to merge DevOps, Security, and AI into resilient, next-generation software delivery pipelines.
 
 ## 📚 Education
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/thiago-pereira-dev)
@@ -22,6 +32,8 @@ I’ve integrated systems with Kafka, scaled applications with ECS, and even bro
 ![Argo%20CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![DATADOG](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### ☁ Cloud 🔝
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
