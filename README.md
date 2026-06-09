@@ -1,17 +1,24 @@
-### Hi , Thiago Pereira
+## About Me
 
-🚀 DevOps Engineer | Backend Developer
-I’m a DevOps Engineer and Backend Developer with vast expertise in AWS, GCP, and Kubernetes, passionate about designing, automating, and scaling modern, cloud-native applications. I specialize in building APIs with NestJS + TypeScript, always prioritizing security, applying OWASP best practices, and ensuring compliance for robust, production-ready systems.
-DevOps & Cloud: I design and operate CI/CD pipelines with GitHub Actions and Jenkins, embrace GitOps with Argo CD, implement Infrastructure as Code using Terraform and CloudFormation, and ensure observability through Prometheus and Grafana.
-AI for DevOps: I integrate LLMs and RAG architectures into pipelines, enabling intelligent automation for deployment orchestration, anomaly detection, security checks, and incident response—pushing CI/CD into the AI-driven era.
+Platform Engineer with experience building cloud-native platforms, Kubernetes environments, CI/CD ecosystems, and AI/ML infrastructure at scale.
 
-Cloud-Native Expertise:
-AWS: EKS, ECS, Lambda, API Gateway, S3, CloudWatch, CloudFormation
-GCP: GKE, Cloud Run, Pub/Sub, BigQuery, Cloud Build
-Hybrid/On-Prem: Kafka integrations, distributed microservices, and containerized workloads at scale.
+My background spans Platform Engineering, DevOps, SRE, and Cloud Architecture, with hands-on experience designing secure and reliable platforms on Google Cloud and AWS. I have led initiatives involving Kubernetes (GKE, EKS, OpenShift), GitOps, Infrastructure as Code, developer platforms, observability, and cloud governance across enterprise environments.
 
-Scalable Architectures: Experienced in designing microservices, event-driven systems, service mesh with Istio, serverless architectures, and hexagonal/clean architecture in Go and TypeScript—ensuring systems remain reliable, scalable, and adaptable to high-demand environments.
-I actively contribute to open-source projects, engage with Cloud Native and FinOps communities, and continuously explore ways to merge DevOps, Security, and AI into resilient, next-generation software delivery pipelines.
+More recently, I have been focused on AI Platform Engineering, enabling teams to build, deploy, and operate LLM-powered applications through scalable inference platforms, RAG architectures, MLOps workflows, model serving, and production-grade observability.
+
+Key areas of expertise include:
+
+Platform Engineering & Internal Developer Platforms (IDP)
+Kubernetes (GKE, EKS, OpenShift)
+Terraform & Cloud Governance
+GitHub Actions, ArgoCD & GitOps
+SRE, Reliability & Incident Management
+AI/ML Platform Infrastructure
+LLM Serving, RAG & Model Lifecycle
+Observability (OpenTelemetry, Prometheus, Grafana)
+Security, IAM & OIDC Federation
+
+I enjoy solving complex infrastructure challenges, improving developer experience, and building platforms that enable engineering teams to move faster while maintaining reliability, security, and operational excellence.
 
 ## 📚 Education
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/thiago-pereira-dev)
